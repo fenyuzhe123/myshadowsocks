@@ -1,1 +1,13 @@
-/etc/shadowsocks/config.json
+{
+
+"server":"104.251.228.21",
+"server-port":8388,
+"local_port":1080,
+"password":"Fenyuzhe123!",
+"timeout":600,
+"method":"aes-256-cfb"
+
+
+
+
+}
